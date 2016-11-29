@@ -1,2 +1,5 @@
 # hello-world
-development knowledge references 
+
+I'm a Android Developer testing here the GiHub for the first time.
+
+This Repository maybe'll used to contains links and references just about develop knowledge.

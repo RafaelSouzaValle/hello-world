@@ -7,3 +7,5 @@ This Repository maybe'll used to contains links and references just about develo
 First interesting link: https://github.com/thinkaurelius/titan
 
 Publishing apps Android - Udacity Webinar - https://br.udacity.com/events/details/?slug=como-publicar-seu-app-android-dicas-de-um-expert-google
+
+Aulas de Python - https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe

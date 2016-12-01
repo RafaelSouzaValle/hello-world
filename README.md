@@ -17,6 +17,7 @@ This Repository maybe'll used to contains links and references just about develo
 * Python | Codecademy [codecademy](https://www.codecademy.com/pt/learn/python)
 * O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
 * The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
+* Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 
 ### S.O
 * Como instalar Arch Linux - [diolinux](http://www.diolinux.com.br/2015/05/a-maneira-mais-facil-de-instalar-o-arch-linux.html)
@@ -29,10 +30,18 @@ This Repository maybe'll used to contains links and references just about develo
 ### Repositórios
 * First interesting link: [thinkaurelius/titan](https://github.com/thinkaurelius/titan)
 
+### FrontEnd
+* A free visual guide to CSS (cssreference)[http://cssreference.io/]
+
 ### Ferramentas 
 * Bitbucket | The Git solution for professional teams [bitbucket](https://bitbucket.org)
+### IDE's
+* Cross platform, open source .NET framework [mono](http://www.mono-project.com/)
 
 ### Tutoriais 
 * Publishing apps Android - [Udacity Webinar - Android](https://br.udacity.com/events/details/?slug=como-publicar-seu-app-android-dicas-de-um-expert-google)
 
 * Instalar o Android Studio - [Developer android](https://developer.android.com/studio/install.html?hl=pt-br)
+
+### Outros
+* Por que criar logo melhora os resultados de sua empresa? [wedologos](http://www.wedologos.com.br/)

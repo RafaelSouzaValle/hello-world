@@ -11,3 +11,5 @@ This Repository maybe'll used to contains links and references just about develo
 * Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
 * Como instalar Arch Linux - [diolinux](http://www.diolinux.com.br/2015/05/a-maneira-mais-facil-de-instalar-o-arch-linux.html)
+
+* Instalar o Android Studio [Developer android](https://developer.android.com/studio/install.html?hl=pt-br)

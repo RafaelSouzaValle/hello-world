@@ -5,6 +5,7 @@ Knowledge Links
 This file will used to contains links and references just about develop knowledge.
 
 ### Freelas
+* SITES
 
 ### Artigos
 * Precificação para free lancers: quanto vale seu serviço? [blog.umbler](http://blog.umbler.com/br/precificacao-para-free-lancers-quanto-vale-seu-servico/)

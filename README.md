@@ -5,6 +5,11 @@ Knowledge Links
 This file will used to contains links and references just about develop knowledge.
 
 ### Freelas
+* [Workana](https://www.workana.com/pt)
+* [Trampos.co](http://trampos.co/)
+* [DevMedia Jobs](http://www.devmedia.com.br/jobs/vagas-programacao/)
+* [ProLancer](http://www.prolancer.com.br)
+* [CodeFreelas](https://codefreelas.com/vagas)
 
 ### Artigos
 * Precificação para free lancers: quanto vale seu serviço? [blog.umbler](http://blog.umbler.com/br/precificacao-para-free-lancers-quanto-vale-seu-servico/)
@@ -18,6 +23,7 @@ This file will used to contains links and references just about develop knowledg
 * O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
 * The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
 * Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
+* Video aulas de Android [youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 
 ### S.O
 * Como instalar Arch Linux - [diolinux](http://www.diolinux.com.br/2015/05/a-maneira-mais-facil-de-instalar-o-arch-linux.html)

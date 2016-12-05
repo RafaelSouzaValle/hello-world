@@ -52,3 +52,4 @@ This file will used to contains links and references just about develop knowledg
 
 ### Outros
 * Por que criar logo melhora os resultados de sua empresa? [wedologos](http://www.wedologos.com.br/)
+* Truques e dicas no Android Studio - [Android Studio Webcast](https://plus.google.com/events/c23f0fcnvphgkb5hj3u2a9crdd4?cfem=1&authkey=CMuyhs-T-4iGFA)

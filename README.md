@@ -13,6 +13,7 @@ This file will used to contains links and references just about develop knowledg
 
 ### Artigos
 * Precificação para free lancers: quanto vale seu serviço? [blog.umbler](http://blog.umbler.com/br/precificacao-para-free-lancers-quanto-vale-seu-servico/)
+* Instalação do Android Studio no Ubuntu [edivaldobrito.com.br](http://www.edivaldobrito.com.br/instalar-android-studio-no-ubuntu/)
 
 ### Aulas e Cursos
 * Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)

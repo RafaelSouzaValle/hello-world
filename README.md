@@ -35,6 +35,7 @@ This file will used to contains links and references just about develop knowledg
 
 ### Ferramentas 
 * Bitbucket | The Git solution for professional teams [bitbucket](https://bitbucket.org)
+
 ### IDE's
 * Cross platform, open source .NET framework [mono](http://www.mono-project.com/)
 

@@ -5,9 +5,15 @@ Knowledge Links
 This file will used to contains links and references just about develop knowledge.
 
 ### Freelas
+* [Workana](https://www.workana.com/pt)
+* [Trampos.co](http://trampos.co/)
+* [DevMedia Jobs](http://www.devmedia.com.br/jobs/vagas-programacao/)
+* [ProLancer](http://www.prolancer.com.br)
+* [CodeFreelas](https://codefreelas.com/vagas)
 
 ### Artigos
 * Precificação para free lancers: quanto vale seu serviço? [blog.umbler](http://blog.umbler.com/br/precificacao-para-free-lancers-quanto-vale-seu-servico/)
+* Instalação do Android Studio no Ubuntu [edivaldobrito.com.br](http://www.edivaldobrito.com.br/instalar-android-studio-no-ubuntu/)
 
 ### Aulas e Cursos
 * Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
@@ -18,6 +24,7 @@ This file will used to contains links and references just about develop knowledg
 * O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
 * The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
 * Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
+* Video aulas de Android [youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 
 ### S.O
 * Como instalar Arch Linux - [diolinux](http://www.diolinux.com.br/2015/05/a-maneira-mais-facil-de-instalar-o-arch-linux.html)
@@ -46,3 +53,5 @@ This file will used to contains links and references just about develop knowledg
 
 ### Outros
 * Por que criar logo melhora os resultados de sua empresa? [wedologos](http://www.wedologos.com.br/)
+* Truques e dicas no Android Studio com intrutores da Udacity - [Android Studio Webcast](https://plus.google.com/events/c23f0fcnvphgkb5hj3u2a9crdd4?cfem=1&authkey=CMuyhs-T-4iGFA) - PDF Sobre o conteúdo: [TIPS, TRICKS, AND TROUBLESHOOTING IN ANDROID STUDIO](https://drive.google.com/file/d/0B1kaWbepsXZxYV9pUVJOYUcxZGc/view)
+* API para APPs de previsão do tempo - [OpenWeatherMap] (http://openweathermap.org/)

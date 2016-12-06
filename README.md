@@ -4,6 +4,11 @@ Knowledge Links
 
 This file will used to contains links and references just about develop knowledge.
 
+
+### Projeto compartilhável para criação e idéias
+[Trello](https://trello.com/invite/b/udb2FiWj/73d1e51da9c5de7a498401620a7b6061/desenvolvimento)
+
+
 ### Freelas
 * [Workana](https://www.workana.com/pt)
 * [Trampos.co](http://trampos.co/)

@@ -21,6 +21,7 @@ This file will used to contains links and references just about develop knowledg
 * Instalação do Android Studio no Ubuntu [edivaldobrito.com.br](http://www.edivaldobrito.com.br/instalar-android-studio-no-ubuntu/)
 
 ### Aulas e Cursos
+* Curso de Blender - [Blender Nitidus](https://www.youtube.com/user/rodmeloufpa)
 * Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 * Projeto torne-se um programador - Aprenda a desenvolver soluções [torneseumprogramador](http://www.torneseumprogramador.com.br/)
 * Python para Android, iOS, Windows, Linux, Mac [udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/)

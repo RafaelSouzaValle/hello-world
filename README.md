@@ -41,6 +41,7 @@ This file will used to contains links and references just about develop knowledg
 
 ### Repositórios
 * First interesting link: [thinkaurelius/titan](https://github.com/thinkaurelius/titan)
+* Repositório de livros para programadores: [github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
 
 ### FrontEnd
 * A free visual guide to CSS (cssreference)[http://cssreference.io/]

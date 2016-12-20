@@ -40,7 +40,7 @@ This file will used to contains links and references just about develop knowledg
 * The Django admin site (django admin)[https://docs.djangoproject.com/en/1.10/ref/contrib/admin]
 
 ### Repositórios
-* First interesting link: [thinkaurelius/titan](https://github.com/thinkaurelius/titan)
+* Titan - Graph Data Base: [thinkaurelius/titan](https://github.com/thinkaurelius/titan)
 * Repositório de livros para programadores: [github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
 
 ### FrontEnd

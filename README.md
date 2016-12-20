@@ -16,6 +16,9 @@ This file will used to contains links and references just about develop knowledg
 * [ProLancer](http://www.prolancer.com.br)
 * [CodeFreelas](https://codefreelas.com/vagas)
 
+### Livros
+* Dowload de livros - [SCANLIBS](https://scanlibs.com/)
+
 ### Artigos
 * Precificação para free lancers: quanto vale seu serviço? [blog.umbler](http://blog.umbler.com/br/precificacao-para-free-lancers-quanto-vale-seu-servico/)
 * Instalação do Android Studio no Ubuntu [edivaldobrito.com.br](http://www.edivaldobrito.com.br/instalar-android-studio-no-ubuntu/)

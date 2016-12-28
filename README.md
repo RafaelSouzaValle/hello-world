@@ -1,12 +1,33 @@
 # hello-world
 
-Knowledge Links
+Knowledge Links - Links para conhecimento
 
-This file will used to contains links and references just about develop knowledge.
+This file will used to contains links and references just about development/programming knowledge.
+Este arquivo será usado para conter links e referências sobre conhecimento relacionado a desenvolvimento/programação.
+
+### Aulas e Cursos (Variados)
+* Curso de Blender - [Blender Nitidus](https://www.youtube.com/user/rodmeloufpa)
+* Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
+* Projeto torne-se um programador - Aprenda a desenvolver soluções [torneseumprogramador](http://www.torneseumprogramador.com.br/)
+* Python para Android, iOS, Windows, Linux, Mac [udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/)
+* Python para Zumbis com Fernando Masanori [pycursos](http://www.pycursos.com/python-para-zumbis/)
+* Python | Codecademy [codecademy](https://www.codecademy.com/pt/learn/python)
+* O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
+* The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
+* Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
+
+### Android Development
+
+* Android Developers - Página oficial com documentação da tecnologia - [Google Android](https://developer.android.com/index.html)
+* Desenvolvimento Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-development-for-beginners--ud837/)
+* Android Basics: Multi-screen Apps - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-multi-screen-apps--ud839/)
+* Android Basics: Networking - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-networking--ud843/)
+* How to create anything in Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/how-to-create-anything-in-android--ud802/)
+* Video aulas de Android [youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 
 
 ### Projeto compartilhável para criação e idéias
-[Trello](https://trello.com/invite/b/udb2FiWj/73d1e51da9c5de7a498401620a7b6061/desenvolvimento)
+* [Trello](https://trello.com/invite/b/udb2FiWj/73d1e51da9c5de7a498401620a7b6061/desenvolvimento)
 
 
 ### Freelas
@@ -22,18 +43,6 @@ This file will used to contains links and references just about develop knowledg
 ### Artigos
 * Precificação para free lancers: quanto vale seu serviço? [blog.umbler](http://blog.umbler.com/br/precificacao-para-free-lancers-quanto-vale-seu-servico/)
 * Instalação do Android Studio no Ubuntu [edivaldobrito.com.br](http://www.edivaldobrito.com.br/instalar-android-studio-no-ubuntu/)
-
-### Aulas e Cursos
-* Curso de Blender - [Blender Nitidus](https://www.youtube.com/user/rodmeloufpa)
-* Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
-* Projeto torne-se um programador - Aprenda a desenvolver soluções [torneseumprogramador](http://www.torneseumprogramador.com.br/)
-* Python para Android, iOS, Windows, Linux, Mac [udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/)
-* Python para Zumbis com Fernando Masanori [pycursos](http://www.pycursos.com/python-para-zumbis/)
-* Python | Codecademy [codecademy](https://www.codecademy.com/pt/learn/python)
-* O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
-* The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
-* Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
-* Video aulas de Android [youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 
 ### S.O
 * Como instalar Arch Linux - [diolinux](http://www.diolinux.com.br/2015/05/a-maneira-mais-facil-de-instalar-o-arch-linux.html)

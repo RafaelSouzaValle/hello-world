@@ -16,14 +16,15 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
 * Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 
-### Android Development
+### Android Development - Cursos e Tutoriais
 
 * Android Developers - Página oficial com documentação da tecnologia - [Google Android](https://developer.android.com/index.html)
 * Desenvolvimento Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-development-for-beginners--ud837/)
 * Android Basics: Multi-screen Apps - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-multi-screen-apps--ud839/)
 * Android Basics: Networking - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-networking--ud843/)
 * How to create anything in Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/how-to-create-anything-in-android--ud802/)
-* Video aulas de Android [youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
+* Video aulas de Android - [Thiengo Calopsita - youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
+* Using an ArrayAdapter with ListView - [CODEPATH](https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
 
 
 ### Projeto compartilhável para criação e idéias

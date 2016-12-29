@@ -15,7 +15,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
 * The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
 * Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
-* Git documentation (Dcumentação sobre o sistema Git de controle de verões)[https://git-scm.com/](https://git-scm.com/)
+* Git documentation (Dcumentação sobre o sistema Git de controle de verões) [https://git-scm.com/](https://git-scm.com/)
 
 ### Android Development - Cursos e Tutoriais
 

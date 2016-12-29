@@ -5,7 +5,7 @@ Knowledge Links - Links para conhecimento
 This file will used to contains links and references just about development/programming knowledge.
 Este arquivo será usado para conter links e referências sobre conhecimento relacionado a desenvolvimento/programação.
 
-### Aulas e Cursos (Variados)
+### Variedades: Aulas / Cursos / Totoriais / Documentações
 * Curso de Blender - [Blender Nitidus](https://www.youtube.com/user/rodmeloufpa)
 * Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 * Projeto torne-se um programador - Aprenda a desenvolver soluções [torneseumprogramador](http://www.torneseumprogramador.com.br/)
@@ -15,6 +15,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
 * The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
 * Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
+* Git documentation (Dcumentação sobre o sistema Git de controle de verões)[https://git-scm.com/](https://git-scm.com/)
 
 ### Android Development - Cursos e Tutoriais
 

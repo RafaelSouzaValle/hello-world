@@ -24,6 +24,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Android Basics: Multi-screen Apps - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-multi-screen-apps--ud839/)
 * Android Basics: Networking - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-networking--ud843/)
 * How to create anything in Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/how-to-create-anything-in-android--ud802/)
+* Android Developer BLOG - [Android Developers Googleblog](https://android-developers.googleblog.com/)
 * Video aulas de Android - [Thiengo Calopsita - youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 * Using an ArrayAdapter with ListView - [CODEPATH](https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
 * ESPECÍFICO - Providing Up Navigation - Criando botão de navegação "UP" - [Google Android](https://developer.android.com/training/implementing-navigation/ancestral.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)

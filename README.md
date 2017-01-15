@@ -28,6 +28,12 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Video aulas de Android - [Thiengo Calopsita - youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 * Using an ArrayAdapter with ListView - [CODEPATH](https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
 * ESPECÍFICO - Providing Up Navigation - Criando botão de navegação "UP" - [Google Android](https://developer.android.com/training/implementing-navigation/ancestral.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+* Parsinsg JSON in Android - Tutorial sobre como analisar JSON no Android - [Tutorials Point](http://www.tutorialspoint.com/android/android_json_parser.htm)
+
+### API's para uso em projetos
+* Google API's Explorer - [https://developers.google.com/apis-explorer/#p/](https://developers.google.com/apis-explorer/#p/)
+* Programmable Web - [programmableweb.com](https://www.programmableweb.com/)
+* The Instagram API Platform - [https://www.instagram.com/developer/](https://www.instagram.com/developer/)
 
 
 ### Projeto compartilhável para criação e idéias

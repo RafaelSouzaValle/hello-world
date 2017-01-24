@@ -17,6 +17,10 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 * Git documentation (Dcumentação sobre o sistema Git de controle de verões) [https://git-scm.com/](https://git-scm.com/)
 
+### JAVA
+
+* Java Fundamentals Tutorial: Exceptions - Tratamento de exceções - [New Circle](https://newcircle.com/bookshelf/java_fundamentals_tutorial/exceptions)
+
 ### Android Development - Cursos e Tutoriais
 
 * Android Developers - Página oficial com documentação da tecnologia - [Google Android](https://developer.android.com/index.html)

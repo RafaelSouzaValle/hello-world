@@ -25,12 +25,13 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * How to use PrintWriter and File classes in Java? [Stack Overflow](http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java)
 
 ### Android Development - Cursos e Tutoriais
-
+* Install Android Studio - [Developer android](https://developer.android.com/studio/install.html?hl=pt-br)
 * Android Developers - Página oficial com documentação da tecnologia - [Google Android](https://developer.android.com/index.html)
 * Desenvolvimento Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-development-for-beginners--ud837/)
 * Android Basics: Multi-screen Apps - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-multi-screen-apps--ud839/)
 * Android Basics: Networking - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-networking--ud843/)
 * How to create anything in Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/how-to-create-anything-in-android--ud802/)
+* Publishing apps Android - [Udacity Webinar - Android](https://br.udacity.com/events/details/?slug=como-publicar-seu-app-android-dicas-de-um-expert-google)
 * Android Developer BLOG - [Android Developers Googleblog](https://android-developers.googleblog.com/)
 * Video aulas de Android - [Thiengo Calopsita - youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 * Using an ArrayAdapter with ListView - [CODEPATH](https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
@@ -54,6 +55,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 
 
 ### Freelas
+* [Freelancer](https://www.freelancer.com/)
 * [Workana](https://www.workana.com/pt)
 * [Trampos.co](http://trampos.co/)
 * [DevMedia Jobs](http://www.devmedia.com.br/jobs/vagas-programacao/)
@@ -71,28 +73,21 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Como instalar Arch Linux - [diolinux](http://www.diolinux.com.br/2015/05/a-maneira-mais-facil-de-instalar-o-arch-linux.html)
 
 ### Frameworks
-* Crie seu sistema | Gerador de sistemas web em php | Rizer (rizer)[www.rizer.com.br]
-* Adianti Studio e o Adianti Framework, ferramentas que visam a máxima produtividade no desenvolvimento de sistemas. (adianti)[http://www.adianti.com.br/]
-* The Django admin site (django admin)[https://docs.djangoproject.com/en/1.10/ref/contrib/admin]
+* Crie seu sistema | Gerador de sistemas web em php | Rizer [rizer](www.rizer.com.br)
+* Adianti Studio e o Adianti Framework, ferramentas que visam a máxima produtividade no desenvolvimento de sistemas. [adianti](http://www.adianti.com.br/)
+* The Django admin site [django admin](https://docs.djangoproject.com/en/1.10/ref/contrib/admin)
+* Cross platform, open source .NET framework [mono](http://www.mono-project.com/)
 
 ### Repositórios
 * Titan - Graph Data Base: [thinkaurelius/titan](https://github.com/thinkaurelius/titan)
 * Repositório de livros para programadores: [github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)
 
 ### FrontEnd
-* A free visual guide to CSS (cssreference)[http://cssreference.io/]
+* A free visual guide to CSS [cssreference](http://cssreference.io/)
 
 ### Ferramentas 
 * Bitbucket | The Git solution for professional teams [bitbucket](https://bitbucket.org)
 * GitLaB | free unlimited (private) repositories and unlimited collaborators [gitlab](https://gitlab.com/)
-
-### IDE's
-* Cross platform, open source .NET framework [mono](http://www.mono-project.com/)
-
-### Tutoriais 
-* Publishing apps Android - [Udacity Webinar - Android](https://br.udacity.com/events/details/?slug=como-publicar-seu-app-android-dicas-de-um-expert-google)
-
-* Instalar o Android Studio - [Developer android](https://developer.android.com/studio/install.html?hl=pt-br)
 
 ### Outros
 * Por que criar logo melhora os resultados de sua empresa? [wedologos](http://www.wedologos.com.br/)

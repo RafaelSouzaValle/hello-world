@@ -39,6 +39,10 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Parsinsg JSON in Android - Tutorial sobre como analisar JSON no Android - [Tutorials Point](http://www.tutorialspoint.com/android/android_json_parser.htm)
 * Drawables - [CODEPATH](https://guides.codepath.com/android/Drawables)
 
+### GAMES DEV
+* cross-platform Java game development framework based on OpenGL (ES) - [libGDX](https://github.com/libgdx/libgdx)
+* Importing and Running Your First LibGDX Project - [Udacity in GitHub](https://github.com/udacity/ud405/blob/master/1.2.01-Demo-GettingStartedWithLibGDX/README.md)
+
 ### API's para uso em projetos
 * Google API's Explorer - [https://developers.google.com/apis-explorer/#p/](https://developers.google.com/apis-explorer/#p/)
 * Programmable Web - [programmableweb.com](https://www.programmableweb.com/)

@@ -22,6 +22,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Java Fundamentals Tutorial: Exceptions - Tratamento de exceções - [New Circle](https://newcircle.com/bookshelf/java_fundamentals_tutorial/exceptions)
 * Specifying the Exceptions Thrown by a Method - [JAVA Tutorial - Oracle](https://docs.oracle.com/javase/tutorial/essential/exceptions/declaring.html)
 * Does every exception have an required try-catch? - [Stack Overflow](http://stackoverflow.com/questions/29851253/does-every-exception-have-an-required-try-catch)
+* How to use PrintWriter and File classes in Java? [Stack Overflow](http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java)
 
 ### Android Development - Cursos e Tutoriais
 

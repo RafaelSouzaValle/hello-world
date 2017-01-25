@@ -3,6 +3,7 @@
 Knowledge Links - Links para conhecimento
 
 This file will used to contains links and references just about development/programming knowledge.
+
 Este arquivo será usado para conter links e referências sobre conhecimento relacionado a desenvolvimento/programação.
 
 ### Variedades: Aulas / Cursos / Totoriais / Documentações

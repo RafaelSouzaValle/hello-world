@@ -40,6 +40,8 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Providing Up Navigation - Criando botão de navegação "UP" - [Google Android](https://developer.android.com/training/implementing-navigation/ancestral.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 * Parsinsg JSON in Android - Tutorial sobre como analisar JSON no Android - [Tutorials Point](http://www.tutorialspoint.com/android/android_json_parser.htm)
 * Drawables - [CODEPATH](https://guides.codepath.com/android/Drawables)
+* Processos e encadeamentos - Processes and Threads - [Google Android](https://developer.android.com/guide/components/processes-and-threads.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+* Mantendo seu App responsivo - Keeping Your App Responsive - [Google Android](https://developer.android.com/training/articles/perf-anr.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 
 ### GAMES DEV
 * cross-platform Java game development framework based on OpenGL (ES) - [libGDX](https://github.com/libgdx/libgdx)

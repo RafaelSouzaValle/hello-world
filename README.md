@@ -43,6 +43,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Processos e encadeamentos - Processes and Threads - [Google Android](https://developer.android.com/guide/components/processes-and-threads.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 * Mantendo seu App responsivo - Keeping Your App Responsive - [Google Android](https://developer.android.com/training/articles/perf-anr.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 * Android Performance Patterns Season 5, Ep. 1 - [Android Developers on Youtube](https://youtu.be/qk5F6Bxqhr4?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+* Material DESIGN - Components– Progress & activity [material.io](https://material.io/guidelines/components/progress-activity.html#)
 
 ### GAMES DEV
 * cross-platform Java game development framework based on OpenGL (ES) - [libGDX](https://github.com/libgdx/libgdx)

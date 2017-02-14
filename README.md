@@ -46,6 +46,8 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Android Performance Patterns Season 5, Ep. 1 - [Android Developers on Youtube](https://youtu.be/qk5F6Bxqhr4?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 * Material DESIGN - Components– Progress & activity [material.io](https://material.io/guidelines/components/progress-activity.html#)
 * Exemplo de Background Thread em conexão com a Internet - "Did You Feel It?" App - [Udacity GitHub](https://github.com/udacity/ud843_DidYouFeelIt/tree/solution)
+* Type List vs type ArrayList in Java - Uso da classe List vs. ArrayList - [Stack Overflow](http://stackoverflow.com/questions/2279030/type-list-vs-type-arraylist-in-java)
+* When to use LinkedList over ArrayList? - Uso da classe Linkied List vs. ArrayList - [Stack Overflow](http://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist)
 
 ### GAMES DEV
 * cross-platform Java game development framework based on OpenGL (ES) - [libGDX](https://github.com/libgdx/libgdx)

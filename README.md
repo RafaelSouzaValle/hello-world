@@ -20,6 +20,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 
 ### JAVA
 
+* Tutorial oficial JAVA - [Oracle JAVA Tutorial](https://docs.oracle.com/javase/tutorial/java/index.html)
 * Java Fundamentals Tutorial: Exceptions - Tratamento de exceções - [New Circle](https://newcircle.com/bookshelf/java_fundamentals_tutorial/exceptions)
 * Specifying the Exceptions Thrown by a Method - [JAVA Tutorial - Oracle](https://docs.oracle.com/javase/tutorial/essential/exceptions/declaring.html)
 * Does every exception have an required try-catch? - [Stack Overflow](http://stackoverflow.com/questions/29851253/does-every-exception-have-an-required-try-catch)

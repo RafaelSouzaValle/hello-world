@@ -28,7 +28,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 
 ### Android Development - Cursos e Tutoriais
 * Install Android Studio - [Developer android](https://developer.android.com/studio/install.html?hl=pt-br)
-* Android Developers - Página oficial com documentação da tecnologia - [Google Android](https://developer.android.com/index.html)
+* Android Developers - Página oficial com documentação da tecnologia - [Android Developer Index](https://developer.android.com/index.html)
 * Desenvolvimento Android - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-development-for-beginners--ud837/)
 * Android Basics: Multi-screen Apps - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-multi-screen-apps--ud839/)
 * Android Basics: Networking - para iniciantes - Legendado BR - [Udacity](https://br.udacity.com/course/android-basics-networking--ud843/)
@@ -38,16 +38,17 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Video aulas de Android - [Thiengo Calopsita - youtube](https://www.youtube.com/user/thiengoCalopsita/videos)
 * Using an ArrayAdapter with ListView - [CODEPATH](https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
 * Google Play Style Tabs using TabLayout - [CODEPATH](https://guides.codepath.com/android/google-play-style-tabs-using-tablayout#sliding-tabs-layout)
-* Providing Up Navigation - Criando botão de navegação "UP" - [Google Android](https://developer.android.com/training/implementing-navigation/ancestral.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+* Providing Up Navigation - Criando botão de navegação "UP" - [Android Developer Training](https://developer.android.com/training/implementing-navigation/ancestral.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 * Parsinsg JSON in Android - Tutorial sobre como analisar JSON no Android - [Tutorials Point](http://www.tutorialspoint.com/android/android_json_parser.htm)
 * Drawables - [CODEPATH](https://guides.codepath.com/android/Drawables)
-* Processos e encadeamentos - Processes and Threads - [Google Android](https://developer.android.com/guide/components/processes-and-threads.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
-* Mantendo seu App responsivo - Keeping Your App Responsive - [Google Android](https://developer.android.com/training/articles/perf-anr.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+* Processos e encadeamentos - Processes and Threads - [Android Developer Guide](https://developer.android.com/guide/components/processes-and-threads.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+* Mantendo seu App responsivo - Keeping Your App Responsive - [Android Developer Training](https://developer.android.com/training/articles/perf-anr.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 * Android Performance Patterns Season 5, Ep. 1 - [Android Developers on Youtube](https://youtu.be/qk5F6Bxqhr4?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 * Material DESIGN - Components– Progress & activity [material.io](https://material.io/guidelines/components/progress-activity.html#)
 * Exemplo de Background Thread em conexão com a Internet - "Did You Feel It?" App - [Udacity GitHub](https://github.com/udacity/ud843_DidYouFeelIt/tree/solution)
 * Type List vs type ArrayList in Java - Uso da classe List vs. ArrayList - [Stack Overflow](http://stackoverflow.com/questions/2279030/type-list-vs-type-arraylist-in-java)
 * When to use LinkedList over ArrayList? - Uso da classe Linkied List vs. ArrayList - [Stack Overflow](http://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist)
+* Loaders - carregadores - [Android Developer Guide](https://developer.android.com/guide/components/loaders.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 
 ### GAMES DEV
 * cross-platform Java game development framework based on OpenGL (ES) - [libGDX](https://github.com/libgdx/libgdx)

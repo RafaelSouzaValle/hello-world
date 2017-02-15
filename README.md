@@ -49,6 +49,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Type List vs type ArrayList in Java - Uso da classe List vs. ArrayList - [Stack Overflow](http://stackoverflow.com/questions/2279030/type-list-vs-type-arraylist-in-java)
 * When to use LinkedList over ArrayList? - Uso da classe Linkied List vs. ArrayList - [Stack Overflow](http://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist)
 * Loaders - carregadores - [Android Developer Guide](https://developer.android.com/guide/components/loaders.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+* Classe LoaderManager - Gerenciador de carregadores - [Android Developer Reference](https://developer.android.com/reference/android/app/LoaderManager.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 
 ### GAMES DEV
 * cross-platform Java game development framework based on OpenGL (ES) - [libGDX](https://github.com/libgdx/libgdx)

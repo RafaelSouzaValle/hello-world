@@ -79,6 +79,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 ### Artigos
 * Precificação para free lancers: quanto vale seu serviço? [blog.umbler](http://blog.umbler.com/br/precificacao-para-free-lancers-quanto-vale-seu-servico/)
 * Instalação do Android Studio no Ubuntu [edivaldobrito.com.br](http://www.edivaldobrito.com.br/instalar-android-studio-no-ubuntu/)
+* Aplicativo nativo ou aplicativo híbrido: qual a melhor solução? - [Avanti! Tecnologia & Marketing](http://blog.penseavanti.com.br/aplicativo-nativo-ou-aplicativo-hibrido-qual-a-melhor-solucao/)
 
 ### S.O
 * Como instalar Arch Linux - [diolinux](http://www.diolinux.com.br/2015/05/a-maneira-mais-facil-de-instalar-o-arch-linux.html)

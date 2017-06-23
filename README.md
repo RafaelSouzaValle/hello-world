@@ -10,15 +10,9 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Curso de Blender - [Blender Nitidus](https://www.youtube.com/user/rodmeloufpa)
 * Aulas de Python - [Youtube - Ignorância Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 * Projeto torne-se um programador - Aprenda a desenvolver soluções [torneseumprogramador](http://www.torneseumprogramador.com.br/)
-* Python para Android, iOS, Windows, Linux, Mac [udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/)
-* Python para Zumbis com Fernando Masanori [pycursos](http://www.pycursos.com/python-para-zumbis/)
-* Python | Codecademy [codecademy](https://www.codecademy.com/pt/learn/python)
-* O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
-* The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
-* Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
 * Git documentation (Dcumentação sobre o sistema Git de controle de verões) [https://git-scm.com/](https://git-scm.com/)
 * Curso de Desenvolvimento de Aplicativos Híbridos com PhoneGap/Cordova, e Ionic - [SlideShare.net](https://pt.slideshare.net/FelipeBlini/curso-de-desenvolvimento-de-aplicativos-hbridos-com-phonegapcordova-e-ionic)
-* Cursos gratuitos on-line (JAVA, PHP, Python, etc) [cursoemvideo.com.br](https://www.cursoemvideo.com)
+* Cursos gratuitos on-line (Algoritmos, JAVA, PHP, Python, etc) [cursoemvideo.com.br](https://www.cursoemvideo.com)
 
 ### JAVA
 
@@ -27,6 +21,20 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 * Specifying the Exceptions Thrown by a Method - [JAVA Tutorial - Oracle](https://docs.oracle.com/javase/tutorial/essential/exceptions/declaring.html)
 * Does every exception have an required try-catch? - [Stack Overflow](http://stackoverflow.com/questions/29851253/does-every-exception-have-an-required-try-catch)
 * How to use PrintWriter and File classes in Java? [Stack Overflow](http://stackoverflow.com/questions/11496700/how-to-use-printwriter-and-file-classes-in-java)
+
+### PYTHON
+
+* Python para Android, iOS, Windows, Linux, Mac [udemy](https://www.udemy.com/python-para-android-ios-windows-linux-mac/)
+* Python para Zumbis com Fernando Masanori [pycursos](http://www.pycursos.com/python-para-zumbis/)
+* Python | Codecademy [codecademy](https://www.codecademy.com/pt/learn/python)
+* O tutorial de Python v2.7.2 documentation [turing](http://turing.com.br/pydoc/2.7/tutorial/)
+* The Python Tutorial Python 3.5.2 documentation [docs.python](https://docs.python.org/3/tutorial/index.html)
+* Curso de Python [youtube](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
+
+### PHP
+
+* PHP [Manual do PHP](http://php.net/manual/pt_BR/index.php)
+* Curso de Linguagem PHP - por Maurício Vivas de Souza Barreto: [67 Páginas em PDF](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
 
 ### Android Development - Cursos e Tutoriais
 * Install Android Studio - [Developer android](https://developer.android.com/studio/install.html?hl=pt-br)

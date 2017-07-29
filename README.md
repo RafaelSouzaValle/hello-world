@@ -35,6 +35,7 @@ Este arquivo será usado para conter links e referências sobre conhecimento rel
 
 * PHP [Manual do PHP](http://php.net/manual/pt_BR/index.php)
 * Curso de Linguagem PHP - por Maurício Vivas de Souza Barreto: [67 Páginas em PDF](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
+* Tutorial de PHP - [HTML.NET](http://pt-br.html.net/tutorials/php/)
 
 ### Android Development - Cursos e Tutoriais
 * Install Android Studio - [Developer android](https://developer.android.com/studio/install.html?hl=pt-br)

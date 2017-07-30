@@ -1,5 +1,7 @@
 # hello-world
 
+[REPOSITÓRIO DESCONTINUADO - TODOS OS LINKS TRANSFERIDOS PARA O REPOSITÓRIO GOOGLE-FAVORITOS](https://github.com/RafaelSouzaValle/Google-Favoritos)
+
 Knowledge Links - Links para conhecimento
 
 This file will used to contains links and references just about development/programming knowledge.
